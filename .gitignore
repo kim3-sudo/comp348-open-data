@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Plots
+Rplot.png
+
+# macOS
+.DS_Store
