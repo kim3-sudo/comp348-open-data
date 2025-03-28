@@ -1,0 +1,148 @@
+Skill Questions
+In this section, we would like to know your estimated skill level, as a self-evaluation. Choose the option that best answers the question for you.
+S1: Estimated Skill
+    On a scale from 1-10, how proficient are you at programming in general?
+S2: Estimated Skill - OOP
+    On a scale from 1-10, how proficient are you at object-oriented programming? (C++, Python, Java, ...)?
+S3: Estimated Skill - Functional
+    On a scale from 1-10, how proficient are you at functional or procedural programming (Haskell, Clojure, PHP, ...)?
+S4: Estimated Skill - Web
+    On a scale from 1-10, how proficient are you at web development?
+S5: Estimated Skill - Database
+    On a scale from 1-10, how proficient are you at database technologies?
+S6: Course Load
+    How many courses with a programming component have you completed?
+
+Usage Questions
+U1: Code Languages
+    What code languages do you use generative AI to help you write code in? Choose all that apply.
+    I do not use generative AI to write code.
+    Python
+    C
+    C++
+    C# (including .NET)
+    Rust
+    Ruby on Rails
+    PHP
+    HTML
+    CSS
+    JavaScript (including Node)
+    Java
+    Elixir
+    R
+    Objective-C
+    Swift
+    SQL
+    Other...
+U2: Most Used Language
+    Which code language do you use generative AI to write the most code in? Choose one.
+    I do not use generative AI to write code.
+    Python
+    C
+    C++
+    C# (including .NET)
+    Rust
+    Ruby on Rails
+    PHP
+    HTML
+    CSS
+    JavaScript (including Node)
+    Java
+    Elixir
+    R
+    Objective-C
+    Swift
+    SQL
+    Other
+U3: Prose-Writing Large Language Models
+    Which large language models do you use to write prose? Choose all that apply.
+    I do not use generative AI to write prose.
+    OpenAI ChatGPT
+    Google Gemini
+    Meta Llama
+    Microsoft Copilot
+    Other...
+U4: Most Used Prose LLM
+    Which large language model do you use the most to write prose? Choose one.
+    I do not use generative AI to write prose.
+    OpenAI ChatGPT
+    Google Gemini
+    Meta Llama
+    Microsoft Copilot
+U5: Code-Writing Large Language Models
+    Which large language models do you use to write code? Choose all that apply.
+    I do not use generative AI to write code.
+    OpenAI ChatGPT
+    GitHub Copilot
+    Amazon CodeWhisperer
+    Google Gemini
+    Other...
+U6: Most Used Code LLM
+    Which large language model do you use the most to write code? Choose one.
+    I do not use generative AI to write code.
+    OpenAI ChatGPT
+    GitHub Copilot
+    Amazon CodeWhisperer
+    Google Gemini
+U7: LLMs as Explainers
+    Do you use large language models to help you explain things? If so, please choose all that apply.
+    I do not use generative AI to explain.
+    I use generative AI to summarize developer documentation.
+    I use generative AI to explain the data structures for popular libraries and classes.
+    I use generative AI to explain code that I wrote.
+    I use generative AI to explain code that other people wrote.
+    I use generative AI to explain interpreter or compiler error messages that I don't understand.
+    Other...
+
+Likert Questions
+For each of these questions, respondents were given the options: Strongly Disagree, Disagree, Neither Agree Nor Disagree, Agree, Strongly Agree, Unable To Answer
+L1: General Use of AI
+    1: Generative AI has been put into places it does not belong.
+    2: The general public understands how generative AI works.
+    3: I understand how generative AI works.
+    4: Generative AI would be better if more people understood how it worked.
+    5: Generative AI lets me do more with less time.
+    6: I enjoy using generative AI to help me do my work.
+L2: Trusting AI
+    1: I trust the results of generative AI models.
+    2: I know better than a generative AI model does.
+    3: I can identify when a generative AI model is "hallucinating."
+    4: If given someone else's prose, I can identify if it was generated using AI.
+    5: If given someone else's code, I can identify whether it was generated using AI.
+L3: Applying AI in the Software Development Lifecycle
+    1: I understand how generative AI plays into the software development lifecycle.
+    2: AI is useful in the software development lifecycle.
+    3: I know what GitHub Copilot does when I write code.
+    4: GitHub Copilot is a useful tool for me.
+    5: I accept the suggestions GitHub Copilot makes most of the time.
+    6: AI, as it stands today, can help me deliver products on-time and under-budget.
+    7: Generative AI is a useful tool for designing software.
+    8: Generative AI is useful for writing "boilerplate" code.
+L4: AI in the Classroom
+    1: Generative AI helps me do my schoolwork when I'm allowed to use it.
+    2: Using generative AI feels like "cheating," even when I'm allowed to use it.
+    3: If I use generative AI to write prose, I have to rewrite the results in my own voice.
+    4: Generative AI can be useful in introductory computer science courses, just like it is in this advanced course.
+L5: AI Ethics
+    1: It is unethical to use AI to generate a solution for an assignment and submit it without completely understanding it.
+    2: It is unethical to use AI to generate a solution for an assignment and submit it after reading it and completely understanding it.
+    3: It is unethical to use AI to generate a solution, even for small parts of the assignment.
+    4: it is unethical to ask AI how to explain how to solve a problem step-by-step.
+    5: It is unethical to ask AI to comment, tidy, and improve the style of code that you wrote.
+    6: It is unethical to provide code to AI and ask it to help you fix a bug.
+    7: It is unethical to write a solution in a programming language (other than the one used in the course), translate it using AI, then submit the translated code.
+
+Open-Ended Questions
+T1: AI In Education
+    Should generative AI be used in higher education?
+    Should it be used in introductory and/or advanced courses?
+T2: AI Methodology
+    Do you feel like you understand how generative AI (specifically, generative pre-trained transformer models) works?
+    If so, please explain how you think it works, in your own words. You can use as many or as few technical terms as you wish.
+T3: AI Hesitancy
+    Do you have any hesitancy towards using AI?
+    If so, what are those reasons? What arguments might you give someone who has no hesitancy as to why they should be cautious?
+    If not, why do you think others may have hesitancy, and how can they be "won over?"
+T4: Writing Code
+    What are some of the qualities of AI-generated code which you have identified?
+    What is generative AI good at writing code for? Where does it struggle?
