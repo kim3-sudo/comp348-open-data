@@ -1,1 +1,5 @@
-# comp348-open-data
+# Kenyon College COMP 348 Open Data
+## Teaching Software Engineering with GenAI LLM Tools
+### S. Kim & J. Skon
+
+This open data and interpretation file are provided alongside the paper for *Teaching Software Engineering with GenAI LLM Tools* (Kim & Skon).
