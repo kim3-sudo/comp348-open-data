@@ -1,0 +1,58 @@
+Usage Questions
+In this section, we will ask you about your estimated usage of AI in your main course project, on a scale from Never to Always. Choose the option that best answers the prompt for you.
+U1: Code Writing
+    How often did you use AI to perform each of these tasks?
+    1. Write new code that you intended to edit
+    2. Write new code that you intended to modify
+    3. Proofread existing code
+    4. Debug existing code
+    5. Explain existing code
+U2: Program Design
+    How often did you use AI to perform each of these tasks?
+    1. Come up with a design for new programs "from scratch"
+    2. Evaluate different program designs that you created
+    3. Evaluate different program designs that AIs created
+    4. Explain the pros and cons of different code designs
+U3: Prose Writing
+    How often did you use AI to perform each of these tasks?
+    1. Explain code for use in documentation
+    2. Write developer documentation in English
+    3. Write end-user documentation in English
+    4. Write inline developer documentation "docstrings" (IDE-specific documentation strings)
+
+Utility Questions
+In this section, we will ask you about the utility of AI in your main course project, on a scale from Never Useful to Extremely Useful. Choose the option that best answers the prompt for you.
+T1: Utility
+    Is AI useful for the following tasks?
+    1. Writing new code
+    2. Proofreading existing code
+    3. Debugging existing code
+    4. Explaining existing code
+    5. Writing developer documentation
+    6. Writing end-user documentation
+
+Sentiment Questions
+In this section, we will ask you about your objective feelings using AI and how they have changed over the course of this project. Choose the option that best answers the prompt for you.
+S1: Present Day Sentiment
+    Consider your feelings today, having used AI in the course already. Indicate your agreement with the following statements.
+    1. AI is a useful tool in general.
+    2. AI is a useful tool in the software development lifecycle.
+    3. I am an AI pessimist.
+    4. I am an AI optimist.
+    5. AI technologies are now mature.
+    6. I trust the results from AI.
+    7. I understand how AI works.
+S2: Previous Sentiment
+    Try to reconsider your feelings on January 16, 2025, about a week into the course. Indicate your agreement with the following statements.
+    1. AI was a useful tool in general.
+    2. AI was a useful tool in the software development lifecycle.
+    3. I was an AI pessimist.
+    4. I was an AI optimist.
+    5. AI technologies were mature.
+    6. I trusted the results from AI.
+    7. I understood how AI worked.
+
+Open-Ended Questions
+F1: If you were designing this course, would you change the AI usage policy? If so, what would you change?
+F2: What did you find AI particularly useful or not useful for during the course?
+F3: How have your feelings, beyond what was covered in the previous section, changed, if at all?
